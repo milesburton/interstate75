@@ -56,5 +56,3 @@ Contributions are welcome! Please feel free to submit pull requests with:
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## ⚠️ Disclaimer
-These examples are for educational purposes. Always ensure proper connections and follow safety guidelines when working with electronics.
